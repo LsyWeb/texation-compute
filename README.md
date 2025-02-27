@@ -4,3 +4,6 @@
 - 使用方便
 - 界面简洁
 - 更多功能，敬请期待...
+
+# 页面展示
+![preview](./public/preview.png)
